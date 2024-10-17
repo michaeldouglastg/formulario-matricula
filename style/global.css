@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
 /* Colors */
   /* Brand */
@@ -28,8 +34,19 @@
 
 /* Typography */
   --font-family: "Poppins", sans-serif;
-  --heading1: 400 2rem/1.5 var(--font-family);
-  --heading2: 400 1.5rem/1.5 var(--font-family);
-  --heading3: 400 1.25rem/1.5 var(--font-family);
-  --heading4: 400 1rem/1.5 var(--font-family);
+  --heading1: 700 2rem/1.2 var(--font-family);
+  --heading2: 700 1.5rem/1.2 var(--font-family);
+  --heading3: 700 1.25rem/1.2 var(--font-family);
+  --heading4: 700 1rem/1.2 var(--font-family);
+  --paragraph: 400 0.875rem/1.4 var(--font-family);
 }
+
+body {
+  overflow: hidden;
+}
+
+h1 {font: var(--heading1);}
+h2 {font: var(--heading2);}
+h3 {font: var(--heading3);}
+h4 {font: var(--heading4);}
+p {font: var(--paragraph)}
