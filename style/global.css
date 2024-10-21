@@ -50,3 +50,8 @@ h2 {font: var(--heading2);}
 h3 {font: var(--heading3);}
 h4 {font: var(--heading4);}
 p {font: var(--paragraph)}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
