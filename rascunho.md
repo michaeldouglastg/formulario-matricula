@@ -1,19 +1,4 @@
-<h1>Texto H1</h1>
-  <h2>Texto H2</h2>
-  <h3>Texto H3</h3>
-  <h4>Texto H4</h4>
-  <p>Parágrafo</p>
   <form>
-    <h2>Formulário de matrícula</h2>
-    <p>Preencha os dados abaixo para matricular seu filho na escola de educação infantil Estrelas do Amanhã.</p>
-    
-    <h4>Informações da criança</h4>
-    <p>Nome completo</p>
-    <p>Data de nascimento</p>
-    <p>Sexo</p>
-    <p>Informações médicas</p>
-    <p>Certidão de nascimento</p>
-
     <h4>Endereço residencial</h4>
     <p>CEP</p>
     <p>Rua</p>
