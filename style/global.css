@@ -39,6 +39,7 @@
   --heading3: 700 1.25rem/1.2 var(--font-family);
   --heading4: 700 1rem/1.2 var(--font-family);
   --paragraph: 400 0.875rem/1.4 var(--font-family);
+  --text: 400 1rem/1.4 var(--font-family);
 }
 
 body {
